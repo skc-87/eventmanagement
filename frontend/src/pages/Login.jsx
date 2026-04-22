@@ -34,7 +34,7 @@ export default function Login() {
     <div className="auth-scene">
       <div className="auth-panel">
         <h1>EventFlow</h1>
-        <p className="subtitle">Sign in to manage your events</p>
+        <p className="subtitle">Log in to your account</p>
 
         {error && <div className="alert alert-error">{error}</div>}
 

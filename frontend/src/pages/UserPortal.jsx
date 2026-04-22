@@ -31,7 +31,7 @@ export default function UserPortal() {
       <div className="page-content">
         <div className="portal-hero animate-in">
           <h1>Welcome, <span className="greeting">{user?.name || 'User'}</span></h1>
-          <p>What would you like to do today?</p>
+          <p>Your Dashboard</p>
         </div>
 
         <div className="portal-grid animate-in">

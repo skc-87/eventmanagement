@@ -17,7 +17,7 @@ export default function VendorPortal() {
       <div className="page-content">
         <div className="portal-hero animate-in">
           <h1>Welcome, <span className="greeting">{user?.name || 'Vendor'}</span></h1>
-          <p>Manage your products and orders</p>
+          <p>Your Dashboard</p>
         </div>
 
         <div className="portal-grid animate-in">

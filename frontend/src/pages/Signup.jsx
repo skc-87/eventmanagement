@@ -47,7 +47,7 @@ export default function Signup() {
         </Link>
 
         <h1>Create Account</h1>
-        <p className="subtitle">Join EventFlow today</p>
+        <p className="subtitle">Register a new account</p>
 
         {error && <div className="alert alert-error">{error}</div>}
 

@@ -17,7 +17,7 @@ export default function AdminPortal() {
       <div className="page-content">
         <div className="portal-hero animate-in">
           <h1>Welcome, <span className="greeting">{user?.name || 'Admin'}</span></h1>
-          <p>System administration dashboard</p>
+          <p>Your Dashboard</p>
         </div>
 
         <div className="portal-grid animate-in">
